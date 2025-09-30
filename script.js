@@ -1,4 +1,4 @@
-const tomboLSapa = document.getElementtByid('sapaButton');
+const tomboLSapa = document.getElementtById('sapaButton');
 tomboLSapa.addEventListener('click', function() {
-   alert('Halo! Terima Kasih sudah berkunjung!');
+   alert('Halo! Terima kasih sudah berkunjung!');
 });
